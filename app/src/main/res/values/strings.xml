@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz Master</string>
+    <string name="quiz_master">Quiz Master</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="e_g_nabeel">e.g. Nabeel</string>
+    <string name="start">Start</string>
+    <string name="quiz_image">Quiz_image</string>
+    <string name="submit">Submit</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="hey_congratulation">Hey, Congratulation!</string>
+    <string name="finish">FINISH</string>
+</resources>
